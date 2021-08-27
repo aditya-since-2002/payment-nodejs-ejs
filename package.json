@@ -26,9 +26,7 @@
 	},
 	"engines": {
 		"node": "14.x"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/Arijitbera213/repository.git"
-	  }
-}
+	},"repository" : { 
+		"type" : "git",
+		"url" : "https://github.com/npm/npm.git"
+	  }}

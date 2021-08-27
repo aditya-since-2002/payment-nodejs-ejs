@@ -6,7 +6,7 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"start": "nodemon app.js",
-		"start": "NODE_ENV=production node_modules/react-scripts/bin/react-scripts.js start"
+		"start-js": "react-scripts start"
 	},
 	"author": "Arijitbera213",
 	"license": "ISC",

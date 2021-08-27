@@ -1,1 +1,1 @@
-# payment-react
+# payment-node-ejs

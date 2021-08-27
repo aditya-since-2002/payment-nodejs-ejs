@@ -1,13 +1,13 @@
 {
-	"name": "node-razorpay",
+	"name": "payment-react",
 	"version": "1.0.0",
 	"description": "Integrating Razorpay Payment Gateway with Nodejs",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node app.js"
+		"start": "nodemon app.js"
 	},
-	"author": "pratik",
+	"author": "Arijitbera213",
 	"license": "ISC",
 	"dependencies": {
 		"body-parser": "^1.19.0",
